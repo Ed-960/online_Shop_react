@@ -1,0 +1,19 @@
+.menu {
+   margin-left: 300px;
+}
+
+.menu__list {
+   display: flex;
+   justify-content: space-between;
+}
+
+.menu ul li {
+   list-style-type: none;
+   float: left;
+   margin-left: 28px;
+   margin-top: 15px;
+   font-weight: 700;
+   font-size: 14px;
+   letter-spacing: 0.1px;
+   line-height: 20px;
+}

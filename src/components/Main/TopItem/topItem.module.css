@@ -1,0 +1,49 @@
+.top__item {
+   display: flex;
+   width: 540px;
+   height: 188px;
+   margin-left: 20px;
+   margin-right: 30px;
+   border-radius: 16px;
+   background-color: #F3F4FF;
+}
+
+.top__item:hover {   
+   background-color: #FFF3ED;
+}
+
+.top__item_text_1 {
+   width: 210px;
+   height: 28px;
+   color: #2B2B43;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 28px;
+   letter-spacing: 0.1px;
+}
+
+.top__item_text_2 {
+   width: 210px;
+   height: 56px;
+   color: #4E60FF;
+   font-weight: 800;
+   font-size: 40px;
+   line-height: 56px;
+   letter-spacing: 0.1px;
+   margin-top: 8px;
+}
+
+.top__item_text_3 {
+   width: 210px;
+   height: 20px;
+   color: #83859C;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+   margin-top: 36px;
+}
+
+.top__item_info {
+   margin-left: 16px;
+}

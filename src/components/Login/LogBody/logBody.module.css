@@ -1,0 +1,182 @@
+.main {
+   font-family: Nunito;
+   margin-top: 128px;
+}
+
+.form__info_login {
+   font-weight: 700;
+   font-size: 60px;
+   line-height: 82px;
+   width: 350px;
+   height: 82px;
+   color: #2B2B43;
+
+}
+
+.form__info_text {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+   width: 350px;
+   height: 40px;
+   color: #545563;
+}
+
+.main__form {
+   position: relative;
+}
+
+.form__forget {
+   position: absolute;
+   margin-top: 28px;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.3px;
+   text-align: center;
+   color: #4E60FF;
+   text-decoration: none;
+   width: 350px;
+   height: 20px;
+}
+
+.main__form_mail input {
+   display: block;
+   color: #545563;
+}
+
+.main__form_mail label {
+   font-family: 'Nunito';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 12px;
+   line-height: 16px;
+   color: #545563;
+}
+
+.main__form_mail input,
+.main__form_password input {
+   padding: 12px;
+   width: 350px;
+   border: 1px solid #C7C8D2;
+   border-radius: 8px;
+}
+
+.main__form_mail input::placeholder,
+.main__form_password input::placeholder {
+   color: #83859C;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+}
+
+.main__form_mail {
+   margin-top: 32px;
+}
+
+.mail__label {
+   font-size: 12px;
+   line-height: 16px;
+   color: #545563;
+}
+
+.main__form_password input {
+   display: block;
+   color: #545563;
+}
+
+.main__form_password {
+   margin-top: 48px;
+}
+
+.main__form_password label {
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+color: #545563;
+}
+
+.main__form_password img {
+   position: relative;
+   left: 345px;
+   top: -30px;
+}
+
+.main__form_checkbox {
+   margin-top: 28px;
+}
+
+.checkbox__label {
+   font-weight: 400;
+   font-size: 14px;
+   color: #2B2B43;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+}
+
+.checkbox__btn {
+   display: block;
+   margin-top: 40px;
+   padding: 12px;
+   height: 44px;
+   width: 350px;
+   background-color: #4E60FF;
+   border-radius: 8px;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.3px;
+   text-align: center;
+   border-style: none;
+}
+
+.form__forget {
+   position: absolute;
+   margin-top: 28px;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.3px;
+   text-align: center;
+   color: #4E60FF;
+   text-decoration: none;
+   width: 350px;
+   height: 20px;
+}
+
+.footer {
+   margin-top: 106px;
+   width: 350px;
+   height: 20px;
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.footer p {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+
+   color: #545563;
+}
+
+.footer a {
+   color: #4E60FF;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+   color: #4E60FF;
+}
+
+.errMessage {
+   color: #ee1010;
+   position: relative;
+   top: 6px;
+   right: 20px;
+}

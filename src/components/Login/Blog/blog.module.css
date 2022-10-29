@@ -1,0 +1,36 @@
+.items__top {
+   width: 313px;
+   height: 436px;
+   background-color: #ffffff;
+   padding-left: 14px;
+   padding-top: 14px;
+   border-radius: 10px;
+   margin-top: 48px;
+   margin-left: 95px;
+   z-index: 10;
+}
+
+.item {
+   padding-bottom: 15px;
+   border-radius: 8px;
+}
+
+.head__bar_bottom_line {
+   margin-left: -14px;
+   margin-top: 20px;
+}
+
+.items__comment {
+   height: 330px;
+   overflow: scroll;
+}
+
+.like__box_left,
+.like__box_right {
+   display: flex;
+}
+
+.comments__divider {
+   margin-top: 23px;
+}
+

@@ -1,0 +1,21 @@
+.checkbox__elements {
+   display: block;
+   cursor: pointer;
+   margin-top: 24px;
+   width: 341px;
+   height: 20px;
+}
+
+
+.page__checkbox[type="checkbox"] {
+   cursor: pointer;
+   accent-color: #4E60FF;
+}
+
+.page__checkbox_label {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+   color: #2B2B43;
+}

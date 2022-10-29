@@ -1,0 +1,14 @@
+.App {
+   box-sizing: border-box;
+   font-family: 'Nunito';
+   font-style: normal;
+}
+
+.line__divider { 
+   width: auto;
+   margin-top: 20px;
+   border-bottom: 1px solid #E5E5E5;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@600;700&display=swap");
+

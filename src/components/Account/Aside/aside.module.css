@@ -1,0 +1,11 @@
+.aside__items {
+   padding-right: 0;
+}
+
+.aside__head {
+   width: 350px;
+   font-size: 20px;
+   line-height: 28px;
+   letter-spacing: 0.1px;
+   color: #2B2B43;
+}

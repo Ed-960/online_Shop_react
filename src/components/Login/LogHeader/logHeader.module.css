@@ -1,0 +1,18 @@
+.header__inner {
+   margin-top: 20px;
+}
+
+.logo {
+   text-decoration: none;
+   cursor: pointer;
+}
+
+.header__logo_text_1 {
+   color: #2B2B43;
+}
+
+.header__logo_text_2 {
+   margin-top:-25px;
+   width: 78px;
+   color: #4E60FF;
+}

@@ -1,0 +1,38 @@
+.menu__food_item {
+   width: 150px;
+   border: 1px solid #EDEEF2;
+   border-radius: 16px;
+   background-color: #F8F9FF;
+   cursor: pointer;
+}
+
+.menu__food_item:hover {
+   border: 1px solid #697BFF;
+}
+
+
+.menu__food_item:focus {
+   border: 1px solid #697BFF;
+}
+
+.menu__food_item_active {
+   cursor: pointer;
+   width: 150px;
+   border-radius: 16px;
+   background-color: #F8F9FF;
+   border: 2px solid #697BFF;
+}
+
+.menu__food_img {
+   padding: 14px 68px 42px 61px;
+}
+
+.menu__food_text {
+   font-size: 13px;
+   font-weight: 700;
+   line-height: 18px;
+   letter-spacing: 0.1px;
+   color: #545563;
+   text-align: center;
+   margin-top: -36px;
+}

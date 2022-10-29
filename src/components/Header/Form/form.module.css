@@ -1,0 +1,23 @@
+.header__btn_img {
+   position: relative;
+   left: -32px;
+   bottom: -3px;
+}
+
+.header__input {
+   width: 170px;
+   height: 20px;
+   border-radius: 12px;
+   margin-left: 80px;
+   margin-top: 20px;
+   padding: 10px 48px 10px 12px;
+   color: #83859C;
+   background-color: #EDEEF2;
+   border-style: none;
+   text-align: left;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+}
+

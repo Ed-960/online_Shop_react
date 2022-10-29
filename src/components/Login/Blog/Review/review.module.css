@@ -1,0 +1,88 @@
+.item__comment {
+   margin-top: 23px;
+   display: flex;
+}
+
+.person {
+   width: 32px;
+   height: 32px;
+}
+
+.comments__box {
+   margin-top: -13px;
+   margin-left: 11px;
+}
+
+.full__name {
+   height: 18px;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+   color: #2B2B43;
+}
+
+.stars__points {
+   display: flex;
+   margin-top: -15px;
+}
+
+.stars__img {
+   width: 12px;
+   height: 12px;
+}
+
+.days {
+   margin-left: 8px;
+   margin-top: -1px;
+   font-weight: 700;
+   font-size: 10px;
+   line-height: 14px;
+   color: #83859C;
+   align-self: center;
+   margin-bottom: 1px;
+}
+
+.person__comment {
+   margin-top: -1px;
+   width: 242px;
+   height: 54px;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.1px;
+}
+
+.like__dislike {
+   margin-top: 15px;
+   margin-bottom: -15px;
+   display: flex;
+}
+
+.like__box_left,
+.like__box_right {
+   display: flex;
+}
+
+.like,
+.dislike {
+   width: 12px;
+   height: 12px;
+}
+
+.dislike {
+   margin-left: 20px;
+}
+
+.like__count {
+   width: 13px;
+   height: 15px;
+   font-weight: 600;
+   font-size: 12px;
+   line-height: 16px;
+   color: #545563;
+   width: 13px;
+   height: 15px;
+   margin-top: -2px;
+   margin-left: 9px;
+}

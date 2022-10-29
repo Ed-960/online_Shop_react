@@ -1,0 +1,7 @@
+.container {
+   margin-left: 100px;
+}
+
+.page__inner {
+   display: flex;
+}

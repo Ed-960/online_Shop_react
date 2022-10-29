@@ -1,0 +1,74 @@
+
+.main {
+   margin-left: 100px;
+   margin-right: 80px;
+}
+
+.top {
+   margin-top: 44px;
+}
+
+.top__items {
+   margin-left: -20px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.menu__food {
+   margin-top: 32px;
+} 
+
+.menu__food_items {
+   display: grid;
+   grid-template-columns: repeat(6, 1fr);
+   grid-column-gap: 30px;
+   grid-auto-rows: 80px;
+}
+
+.restaurants {
+   margin-top: 16px;
+}
+
+.restaurants__where {
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 28px;
+   letter-spacing: 0.1em;
+   color: #2b2b43;
+   margin-top: 40px;
+}
+
+
+.restaurants__items {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: repeat(2, 1fr);
+   grid-column-gap: 30px;
+   grid-row-gap: 30px;
+}
+
+.restaurants__where__and__btn {
+   display: flex; 
+   justify-content: space-between;
+}
+
+.restaurants__where__and__btn button {
+   justify-self: flex-end;
+   position: relative;
+   margin-right: 50px;
+   width: 70px;
+   height: 35px;
+   top: 20px;
+   color: #545563;
+   border: 1px solid #EDEEF2;
+   background-color: #F8F9FF;
+   border-radius: 10px;
+}
+
+.restaurants__where__and__btn button:hover {
+   border: 1px solid #697BFF;
+}
+
+.restaurants__where__and__btn button:active {
+   border: 2px solid #4E60FF;
+}

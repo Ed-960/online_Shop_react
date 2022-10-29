@@ -1,0 +1,22 @@
+.restaurants__foods {
+   width: 70px;
+   height: 24px;
+   background-color: #EDEEF2;
+   border-radius: 100px;
+   margin-left: 8px;
+}
+
+.restaurants__food_img {
+   width: 12px;
+   height: 12px;
+   vertical-align: middle;
+   margin-left: 10px;
+}
+
+.restaurants__food_name {
+   font-weight: 600;
+   font-size: 12px;
+   line-height: 16px;
+   color: #545563;
+   margin-left: 4px;
+}

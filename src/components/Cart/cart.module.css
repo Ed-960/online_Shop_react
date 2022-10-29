@@ -1,0 +1,46 @@
+.info {
+   display: flex;
+   background-color: rgb(157, 157, 230);
+}
+
+.info__item {
+   margin-left: 275px;
+}
+
+.info__item_product {
+   margin-left: 255px;
+}
+
+
+.divider_product {
+   border: 1px solid rgb(233, 25, 25) ;
+   width: 750px;
+   margin-left: 234px;
+   margin-top: 20px;
+}
+
+.checkout{
+   margin-top: 10px;
+   width: 160px;
+   height: 26px;
+   font-weight: 400;
+   color: rgb(61, 56, 56);
+   background-color: rgb(211, 212, 226);
+   border: 1px solid rgb(158, 159, 161);
+   border-radius: 10px;
+}
+
+.divider {
+   border: 1px solid rebeccapurple ;
+   width: 143px;
+}
+
+.price__info {
+   margin-top: 10px;
+}
+
+.footer {
+   margin-right: 350px;
+   float: right;
+   margin-top: 40px;
+}
